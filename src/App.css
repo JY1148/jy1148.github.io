@@ -1,0 +1,46 @@
+/* src/App.css */
+/* Ensure style5 has a white background */
+.spotlight.style5 {
+  background-color: #ffffff !important;
+  color: #4c5c96 !important;
+}
+
+.spotlight.style5 .content {
+  background-color: #ffffff !important;
+}
+
+.spotlight.style5 h2,
+.spotlight.style5 strong,
+.spotlight.style5 b {
+  color: #4c5c96 !important;
+}
+
+/* Ensure gallery buttons are visible and clickable */
+.gallery-scroll-button {
+  z-index: 100 !important;
+  background: rgba(0, 0, 0, 0.2);
+  color: #fff !important;
+  font-size: 3rem !important;
+}
+
+.gallery-scroll-button:hover {
+  background: rgba(0, 0, 0, 0.6);
+}
+
+/* Fix Project List Grid */
+#project-list .items {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 2rem;
+}
+
+#project-list .items section {
+  width: 300px;
+  margin: 1rem;
+  text-align: center;
+}
+
+#project-list .actions {
+  justify-content: center;
+}

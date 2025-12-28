@@ -1,0 +1,133 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    font-size: 18pt;
+  }
+
+  @media screen and (max-width: 1680px) {
+    html {
+      font-size: 14pt;
+    }
+  }
+
+  @media screen and (max-width: 1280px) {
+    html {
+      font-size: 12pt;
+    }
+  }
+
+  @media screen and (max-width: 736px) {
+    html {
+      font-size: 11pt;
+    }
+  }
+
+  @media screen and (max-width: 360px) {
+    html {
+      font-size: 10pt;
+    }
+  }
+
+  body {
+    @apply font-sans font-light leading-relaxed text-gray-900 bg-white;
+    line-height: 1.65;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    @apply font-light leading-tight tracking-tight text-gray-900 mb-4;
+  }
+
+  p {
+    @apply mb-8;
+  }
+
+  /* HTML5 UP specific link hover color */
+  a {
+    @apply transition-colors duration-200;
+  }
+
+  a:hover {
+    @apply text-accent;
+  }
+}
+
+/* Import HTML5UP main CSS so visuals match jy1148.github.io */
+@import "./assets/css/main.css";
+
+/* Tailwind component utilities for enhanced animations / hover effects */
+@layer components {
+  /* Unified, subtle button — less intrusive */
+  .btn {
+    @apply inline-block px-4 py-2 rounded border border-gray-200 text-sm font-medium text-gray-700 bg-transparent transition-colors duration-200;
+  }
+
+  .btn:hover {
+    @apply bg-gray-100 text-gray-900;
+  }
+
+  /* Muted variant for image actions */
+  .btn-muted {
+    @apply inline-block px-3 py-1.5 rounded-md border border-gray-200 text-sm text-gray-600 bg-white/60 backdrop-blur-sm transition-colors duration-200;
+  }
+
+  .btn-muted:hover {
+    @apply bg-gray-100 text-gray-800 shadow-sm;
+  }
+
+  .image-hover {
+    @apply transition-transform duration-500 ease-out;
+  }
+
+  .image-hover:hover {
+    transform: translateY(-0.25rem) scale(1.04);
+    filter: brightness(1.03);
+    box-shadow: 0 10px 30px rgba(0,0,0,0.12);
+  }
+
+  .card {
+    @apply bg-white rounded-lg overflow-hidden transition-shadow duration-300;
+  }
+
+  .card:hover {
+    @apply shadow-2xl -translate-y-1 transform;
+  }
+
+  /* Subtle separators for experience items */
+  .work-item, .academic-item {
+    @apply bg-white border border-gray-100 rounded-lg p-6 mb-4 shadow-sm transition-shadow duration-200;
+  }
+
+  .work-item + .work-item, .academic-item + .academic-item {
+    @apply mt-3;
+  }
+
+  .work-item h2, .academic-item h2 {
+    @apply text-xl font-semibold text-gray-900 mb-1;
+  }
+
+  .work-item h4, .academic-item h4 {
+    @apply text-sm text-gray-600 mb-3;
+  }
+
+  .work-item ul, .academic-item ul {
+    @apply list-disc list-inside text-gray-700 pl-2 space-y-1;
+  }
+
+  /* Tie into the new Tailwind animations defined in tailwind.config.js */
+  .onscroll-fade-in { animation: fade-in 900ms ease both; }
+  .onload-image-fade-in { animation: image-fade-in 900ms ease both; }
+  .onload-content-fade-right { animation: fade-right 900ms ease both; }
+
+  .float-slow { animation: float-slow; }
+
+  a.icon, .icons a { @apply transition-transform duration-200; }
+  a.icon:hover, .icons a:hover { @apply scale-110; }
+}

@@ -1,0 +1,74 @@
+[
+    {
+        "title": "myStack",
+        "description": "Social Media Web App.",
+        "image": "/images/myStack - Imgur.jpg",
+        "link": "https://my-stack-app-client.vercel.app"
+    },
+    {
+        "title": "myShyiop",
+        "description": "E-commerce Clothing Web App.",
+        "image": "/images/shyiop - Imgur.png",
+        "link": "/images/shyiop - Imgur.png"
+    },
+    {
+        "title": "Reddit Replica",
+        "description": "Spring boot My-Reddit Replica Web App.",
+        "image": "/images/reddit replica.png",
+        "link": "/images/reddit replica.png"
+    },
+    {
+        "title": "My-Ethereal",
+        "description": "My-Ethereal blockchain wallet web app.",
+        "image": "/images/myEthereal - Imgur.png",
+        "link": "/images/myEthereal - Imgur.png"
+    },
+    {
+        "title": "Cafe Management System",
+        "description": "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices.",
+        "image": "/images/Cafe System - Imgur.png",
+        "link": "/images/Cafe System - Imgur.png"
+    },
+    {
+        "title": "Gobo Travel",
+        "description": "Online Travel Shopping Company Web App",
+        "image": "/images/goboTravel - Imgur.png",
+        "link": "/images/goboTravel - Imgur.png"
+    },
+    {
+        "title": "MediaPipe ML app",
+        "description": "AI Dumbbell curls coach",
+        "image": "/images/dumbell coach.gif",
+        "link": "/images/dumbell coach.gif"
+    },
+    {
+        "title": "My lifeshop",
+        "description": "ExpressJS and ReactJS E-commerce Web App",
+        "image": "/images/lifeshop - Imgur.png",
+        "link": "/images/lifeshop - Imgur.png"
+    },
+    {
+        "title": "Neat - Social Media Web App",
+        "description": "MongoDB + ExpressJS + ReactJS + NodeJS + GraphQL",
+        "image": "/images/myMergn - Imgur.png",
+        "link": "/images/myMergn - Imgur.png"
+    },
+    {
+        "title": "Open AI Chatbot",
+        "description": "Online chatroom with OpenAI Robots",
+        "image": "/images/openAI - Imgur.png",
+        "link": "/images/openAI - Imgur.png"
+    },
+    {
+        "title": "Action Catcher",
+        "description": "Machine Learning model identifying human sport actions.",
+        "image": "/images/actCatcher.gif",
+        "link": "/images/actCatcher.gif"
+    },
+    {
+        "title": "Marvel Fall of Hall",
+        "description": "ReactJS + API",
+        "image": "/images/myMarvel -Imgur.png",
+        "link": "/images/myMarvel -Imgur.png"
+    }
+]

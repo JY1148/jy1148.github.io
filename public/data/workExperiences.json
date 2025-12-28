@@ -1,0 +1,51 @@
+[
+    {
+        "position": "Software Engineer",
+        "company": "Amazon",
+        "location": "Seattle, WA",
+        "duration": "Nov 2024--Present",
+        "details": [
+            "Contributed to the re-orchestration of Amazon Translation Management Service, transitioning from a monolithic architecture to microservices",
+            "Integrated the system into a fully-native AWS environment by rewriting the pipelines",
+            "Led the integration of observability and monitoring mechanisms, including structured logging, metrics, and alarms, to proactively detect performance degradation and system anomalies",
+            "Participated in load testing and performance tuning efforts, analyzing bottlenecks in high-concurrency scenarios and improving system behavior under peak traffic conditions"
+        ]
+    },
+    {
+        "position": "Software Engineer",
+        "company": "T-Mobile",
+        "location": "Bellevue, WA",
+        "duration": "Jan 2024--Nov 2024",
+        "details": [
+            "Participated in complete software development lifecycle for six projects as a contractor and built high-performance device status products catering for over 3,000 developers, contributing to the system scalability and maintainability and successful delivery of key functionalities",
+            "Created essential features, modules, and auxiliary applications utilizing Java, Spring Boot, Hibernate, Oracle SQL, and Cassandra with effective containerization through Docker and Kubernetes, and CI/CD via GitLab pipelines",
+            "Maintained and optimized systems with tens of thousands of requests per minute, resolving more than 50 performance bottlenecks and enhancing system stability and performance by 35%",
+            "Collaborated with over 40 upstream and downstream stakeholders to achieve seamless integration, utilizing RESTful APIs, SOAP, Ldap search, resulting in a 25% reduction in integration issues",
+            "Facilitated over 100 code reviews and troubleshooting sessions within an Agile framework, elevating the technical proficiency of the entire team by 20%",
+            "Conducted regular technical knowledge transfer sessions and authored detailed technical documentation, ensuring projects’ maintainability and scalability"
+        ]
+    },
+    {
+        "position": "Java Developer",
+        "company": "BeaconFire Staffing Solution Inc",
+        "location": "remote, USA",
+        "duration": "May 2023--Jan 2024",
+        "details": [
+            "Participated in the complete SDLC of a microservice message-driven application with Angular TypeScript and Java Spring Boot framework, featuring facilitating user interaction, content sharing, and community building"
+        ]
+    },
+    {
+        "position": "English Teacher",
+        "company": "Guangzhou No.2 High School",
+        "location": "China",
+        "duration": "Sep 2016--June 2019",
+        "details": [
+            "Designed well-structured and highly interactive instructional content based on students’ learning characteristics, strengthening learners’ listening, speaking, reading, and writing skills",
+            "Collaborated closely with curriculum development teams to align teaching objectives with classroom needs, continuously refining instructional materials and delivery methods",
+            "Integrated videos, interactive exercises, and scenario-based learning activities to create an immersive learning environment and enhance student engagement and motivation",
+            "Conducted regular student feedback collection and learning outcome evaluations, iteratively improving teaching strategies and course design based on insights gathered",
+            "Achieved measurable teaching outcomes, including a 30% increase in classroom engagement and a 25% improvement in course completion rates",
+            "Supported over 3,000 students and 20+ teachers, contributing to improved learning effectiveness and the institution’s long-term educational goals"
+        ]
+    }
+]

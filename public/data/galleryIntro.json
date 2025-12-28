@@ -1,0 +1,17 @@
+{
+    "title": "Building robust and scalable projects",
+    "items": [
+        {
+            "label": "MERN-stack",
+            "value": "<b>MongoDB</b> as cloud-based NoSQL db, <b>Express</b> as web framework, <b>React</b> as frontend framework, <b>NodeJS</b> as JavaScript server"
+        },
+        {
+            "label": "Machine Learning models",
+            "value": "Built high precision and recall models with <b>Create ML</b> and leveraged <b>MediaPipe</b> to identify body postures"
+        },
+        {
+            "label": "Blockchain cryptocurrency",
+            "value": "Paired with the MataMask, interacted with Ethereum, and broadcast transactions with smart contracts in <b>Solidity</b>"
+        }
+    ]
+}
