@@ -1,0 +1,34 @@
+{
+    "name": "Jinzhou Yan",
+    "bio": [
+        "👨🏻‍💻Software Engineer @Amazon",
+        "👨🏻‍🎓Northeastern University MSIS",
+        "👨🏻‍🏫ex-Educator",
+        "Linguistics. Graphic Design. Video Editing"
+    ],
+    "socialLinks": [
+        {
+            "label": "Github",
+            "icon": "icon brands style2 fa-github",
+            "url": "https://github.com/jy1148"
+        },
+        {
+            "label": "LinkedIn",
+            "icon": "icon brands style2 fa-linkedin-in",
+            "url": "https://www.linkedin.com/in/jy1148/"
+        },
+        {
+            "label": "Email",
+            "icon": "icon style2 fa-envelope",
+            "url": "mailto:yan.jinz@northeastern.edu"
+        }
+    ],
+    "actions": [
+        {
+            "label": "About me",
+            "url": "#about",
+            "class": "inline-block px-10 py-4 border border-gray-300 rounded-lg text-lg font-light tracking-wide hover:border-accent hover:text-accent transition-all duration-300 smooth-scroll-middle"
+        }
+    ],
+    "image": "/images/snowy_me_phonesize.png"
+}

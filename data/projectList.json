@@ -1,0 +1,86 @@
+[
+    {
+        "title": "myStack",
+        "subtitle": "Social Media Web App",
+        "tech": "React, Node, GraphQL",
+        "icon": "icon-stack",
+        "link": "https://my-stack-app-client.vercel.app"
+    },
+    {
+        "title": "myShyiop",
+        "subtitle": "E-commerce Clothing Web App",
+        "tech": "React, Express, MongoDB",
+        "icon": "icon-shop",
+        "link": "/images/shyiop - Imgur.png"
+    },
+    {
+        "title": "Reddit Replica",
+        "subtitle": "Spring Boot Reddit Clone",
+        "tech": "Java, Spring Boot",
+        "icon": "icon-reddit",
+        "link": "/images/reddit replica.png"
+    },
+    {
+        "title": "My-Ethereal",
+        "subtitle": "Blockchain wallet web app",
+        "tech": "React, Web3",
+        "icon": "icon-wallet",
+        "link": "/images/myEthereal - Imgur.png"
+    },
+    {
+        "title": "Cafe Management System",
+        "subtitle": "Restaurant/cafe POS system",
+        "tech": "Node, Express, SQLite",
+        "icon": "icon-cafe",
+        "link": "/images/Cafe System - Imgur.png"
+    },
+    {
+        "title": "Gobo Travel",
+        "subtitle": "Online travel booking",
+        "tech": "React, Node",
+        "icon": "icon-travel",
+        "link": "/images/goboTravel - Imgur.png"
+    },
+    {
+        "title": "MediaPipe ML app",
+        "subtitle": "AI Dumbbell Curls Coach",
+        "tech": "MediaPipe, TensorFlow, JS",
+        "icon": "icon-ml",
+        "link": "/images/dumbell coach.gif"
+    },
+    {
+        "title": "My lifeshop",
+        "subtitle": "E-commerce platform",
+        "tech": "Express, React, MongoDB",
+        "icon": "icon-shop",
+        "link": "/images/lifeshop - Imgur.png"
+    },
+    {
+        "title": "Neat - Social Media Web App",
+        "subtitle": "Social platform (MERNG)",
+        "tech": "MongoDB, Express, React, Node, GraphQL",
+        "icon": "icon-social",
+        "link": "/images/myMergn - Imgur.png"
+    },
+    {
+        "title": "Open AI Chatbot",
+        "subtitle": "Chatroom with OpenAI bots",
+        "tech": "React, OpenAI API",
+        "icon": "icon-chat",
+        "link": "/images/openAI - Imgur.png"
+    },
+    {
+        "title": "Action Catcher",
+        "subtitle": "Sport action recognition ML",
+        "tech": "Python, ML",
+        "icon": "icon-ml",
+        "link": "/images/actCatcher.gif"
+    },
+    {
+        "title": "Marvel Fall of Hall",
+        "subtitle": "React + API demo",
+        "tech": "React",
+        "icon": "icon-game",
+        "link": "/images/myMarvel -Imgur.png"
+    }
+]

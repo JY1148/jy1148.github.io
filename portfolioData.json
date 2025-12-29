@@ -1,0 +1,375 @@
+{
+    "personalInfo": {
+        "name": "Jinzhou Yan",
+        "bio": [
+            "👨🏻‍💻Software Engineer.",
+            "👨🏻‍🎓Northeastern University 2023 graduate.",
+            "👨🏻‍🏫Teacher.",
+            "Pedagogy. Linguistics. Graphic Design."
+        ],
+        "socialLinks": [
+            {
+                "label": "Github",
+                "icon": "icon brands style2 fa-github",
+                "url": "https://github.com/jy1148"
+            },
+            {
+                "label": "LinkedIn",
+                "icon": "icon brands style2 fa-linkedin-in",
+                "url": "https://www.linkedin.com/in/jy1148/"
+            },
+            {
+                "label": "Email",
+                "icon": "icon style2 fa-envelope",
+                "url": "mailto:yan.jinz@northeastern.edu"
+            }
+        ],
+        "actions": [
+            {
+                "label": "About me",
+                "url": "#about",
+                "class": "inline-block px-10 py-4 border border-gray-300 rounded-lg text-lg font-light tracking-wide hover:border-accent hover:text-accent transition-all duration-300 smooth-scroll-middle"
+            }
+        ],
+        "image": "/images/snowy_me_phonesize.png"
+    },
+    "skills": {
+        "title": "Software Engineering Skillset",
+        "items": [
+            {
+                "label": "Programming Languages",
+                "value": "Java, Shell script, Python, TypeScript, JavaScript, C++, Swift"
+            },
+            {
+                "label": "Frameworks",
+                "value": "Spring Boot, React, Angular"
+            },
+            {
+                "label": "DevOps",
+                "value": "AWS, Kubernetes, Docker, Gitlab CI, Github Actions, ArgoCD, Rancher, Terraform"
+            },
+            {
+                "label": "Database",
+                "value": "Cassandra, DocumentDB, MongoDB, Redis, MySQL, PostgreSQL, Firebase"
+            },
+            {
+                "label": "Operation Systems & Tools",
+                "value": "Git, kafka, RabbitMQ"
+            }
+        ],
+        "image": "/images/background/Untitled_Artwork_18.png"
+    },
+    "headers": {
+        "workExperience": "Working Experience",
+        "academicExperience": "Academic Experience",
+        "projectList": "Project List",
+        "contact": "Get in touch"
+    },
+    "workExperiences": [
+        {
+            "position": "Software Engineer",
+            "company": "Amazon",
+            "location": "Seattle, WA",
+            "duration": "Nov 2024--Present",
+            "details": [
+                "Contributed to the re-orchestration of Amazon Translation Management Service, transitioning from a monolithic architecture to microservices",
+                "Integrated the system into a fully-native AWS environment by rewriting the pipelines"
+            ]
+        },
+        {
+            "position": "Software Engineer",
+            "company": "T-Mobile",
+            "location": "Bellevue, WA",
+            "duration": "Jan 2024--Nov 2024",
+            "details": [
+                "Participated in complete software development lifecycle for six projects as a contractor and built high-performance device status products catering for over 3,000 developers, contributing to the system scalability and maintainability and successful delivery of key functionalities",
+                "Created essential features, modules, and auxiliary applications utilizing Java, Spring Boot, Hibernate, Oracle SQL, and Cassandra with effective containerization through Docker and Kubernetes, and CI/CD via GitLab pipelines",
+                "Maintained and optimized systems with tens of thousands of requests per minute, resolving more than 50 performance bottlenecks and enhancing system stability and performance by 35%",
+                "Collaborated with over 40 upstream and downstream stakeholders to achieve seamless integration, utilizing RESTful APIs, SOAP, Ldap search, resulting in a 25% reduction in integration issues",
+                "Facilitated over 100 code reviews and troubleshooting sessions within an Agile framework, elevating the technical proficiency of the entire team by 20%",
+                "Conducted regular technical knowledge transfer sessions and authored detailed technical documentation, ensuring projects’ maintainability and scalability"
+            ]
+        },
+        {
+            "position": "Java Developer",
+            "company": "BeaconFire Staffing Solution Inc",
+            "location": "",
+            "duration": "May 2023--Jan 2024",
+            "details": [
+                "Participated in the complete SDLC of a microservice message-driven application with Angular TypeScript and Java Spring Boot framework, featuring facilitating user interaction, content sharing, and community building",
+                "Implemented efficiently manage high-concurrency conditions by utilizing non-blocking Reactor and asynchronous processing RabbitMQ, enabling the application to remain scalable, resilient, and responsive even during traffic spikes",
+                "Architected and implemented the Gateway pattern, load balancing, and dynamic scaling with Eureka and Feign, facilitating request customization while ensuring fault tolerance and enhancing service resilience",
+                "Strengthened data security by implementing OAuth2.0 w/ JWT in conjunction with Spring Security",
+                "Oversaw the application state utilizing NgRx and optimized application for modular architecture with dependency injection",
+                "Ensured data management system by utilizing AWS RDS for relational data and MongoDB for document-structured data",
+                "Conducted unit test, load testing with JUnit, Mockito, JaCoCo, JMeter, maintained superior code quality through SonarQube and implemented automating CI/CD pipelines through Jenkins"
+            ]
+        },
+        {
+            "position": "Software Engineer",
+            "company": "Guangzhou ErZhong High School",
+            "location": "China",
+            "duration": "Sep 2019--May 2021",
+            "details": [
+                "Led the design and development of a React Single Page Application (SPA) for the Interactive English Web Courseware, utilizing React, Redux, JavaScript, HTML5, CSS3, and RESTful APIs",
+                "Architected and implemented a highly interactive and user-friendly frontend interface, enhancing student engagement",
+                "Collaborated with educational content creators to seamlessly integrate curriculum-specific materials into the courseware and conducted regular code reviews to foster a collaborative and high-performing team environment",
+                "Integrated multimedia content, videos and interactive exercises, to create an immersive and effective learning experience",
+                "Conducted user testing and feedback sessions, continuously improving the courseware based on student and teacher input",
+                "Achieved a 30% increase in student engagement and a 25% increase in course completion rates compared to traditional methods, benefiting over 3,000 students and 20 teachers, and contributing to the organization’s educational mission"
+            ]
+        },
+        {
+            "position": "English Teacher",
+            "company": "Guangzhou ErZhong High School",
+            "location": "China",
+            "duration": "Sep 2018--May 2019",
+            "details": [
+                "Taught over 100 students L-S-R-W skills in English and was awarded as presenter of *the city-wide Most Popular English Class*",
+                "Designed, strategized and supervised student academic enrichment programs on a school-wide scale, catering to a large audience of over 2,400 attendees"
+            ]
+        }
+    ],
+    "academicExperiences": [
+        {
+            "position": "Teaching Assistant",
+            "course": "INFO6250 Web Design/User Experience Engineer",
+            "institution": "NEU",
+            "duration": "May 2022--Aug 2022",
+            "details": [
+                "Provided mentoring to students on implementation and troubleshooting by leveraging a strong comprehension of web development frameworks and server-side technologies",
+                "Performed weekly Github code reviews of student assignments, thoroughly evaluated the code for issues, and provided optimal bug solutions and explanations that incorporated relevant web development notions",
+                "Ensured consistent and clear communication with students by promptly responding to emails and holding regular office hours for providing additional support outside class hours"
+            ]
+        },
+        {
+            "position": "Teaching Assistant",
+            "course": "INFO6150 Web Development Tools & Methods",
+            "institution": "NEU",
+            "duration": "Sep 2022--Dec 2022",
+            "details": [
+                "Demonstrated knowledge of web technologies and frameworks, and advised on best practices for web design, including responsive layout creation and accessibility implementation",
+                "Collaborated with team partner to assess weekly student Github assignments by analyzing code functionality, identifying issues and suggesting improvements or solutions",
+                "Held office hours to provide guidance on efficient collaboration using Git, while assisting students in resolving any conflicts that may arise during the collaboration process"
+            ]
+        },
+        {
+            "position": "Teaching Assistant",
+            "course": "CSYE6225 Objects-Oriented Design with C++",
+            "institution": "NEU",
+            "duration": "Jan 2023--Apr 2023",
+            "details": [
+                "Exhibited proficiency in conveying intricate concepts related to C++ and OOP, such as encapsulation, inheritance, and polymorphism, to students with diverse levels of prior experience, resulting in effective communication",
+                "Teamed up with a teaching assistant partner to ensure effective delivery of course material and consistent and fair grading standards",
+                "Deliverd empathetic feedback to students on their code work with a focus on helping them improve their comprehension of C++ syntax and object-oriented programming concepts"
+            ]
+        }
+    ],
+    "galleryIntro": {
+        "title": "Building robust and scalable projects",
+        "items": [
+            {
+                "label": "MERN-stack",
+                "value": "<b>MongoDB</b> as cloud-based NoSQL db, <b>Express</b> as web framework, <b>React</b> as frontend framework, <b>NodeJS</b> as JavaScript server"
+            },
+            {
+                "label": "Machine Learning models",
+                "value": "Built high precision and recall models with <b>Create ML</b> and leveraged <b>MediaPipe</b> to identify body postures"
+            },
+            {
+                "label": "Blockchain cryptocurrency",
+                "value": "Paired with the MataMask, interacted with Ethereum, and broadcast transactions with smart contracts in <b>Solidity</b>"
+            }
+        ]
+    },
+    "galleryProjects": [
+        {
+            "title": "myStack",
+            "description": "Social Media Web App.",
+            "image": "/images/myStack_-_Imgur.jpg",
+            "link": "https://my-stack-app-client.vercel.app"
+        },
+        {
+            "title": "myShyiop",
+            "description": "E-commerce Clothing Web App.",
+            "image": "/images/shyiop_-_Imgur.png",
+            "link": "/images/shyiop_-_Imgur.png"
+        },
+        {
+            "title": "Reddit Replica",
+            "description": "Spring boot My-Reddit Replica Web App.",
+            "image": "/images/reddit_replica.png",
+            "link": "/images/reddit_replica.png"
+        },
+        {
+            "title": "My-Ethereal",
+            "description": "My-Ethereal blockchain wallet web app.",
+            "image": "/images/myEthereal_-_Imgur.png",
+            "link": "/images/myEthereal_-_Imgur.png"
+        },
+        {
+            "title": "Cafe Management System",
+            "description": "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices.",
+            "image": "/images/Cafe_System_-_Imgur.png",
+            "link": "/images/Cafe_System_-_Imgur.png"
+        },
+        {
+            "title": "Gobo Travel",
+            "description": "Online Travel Shopping Company Web App",
+            "image": "/images/goboTravel_-_Imgur.png",
+            "link": "/images/goboTravel_-_Imgur.png"
+        },
+        {
+            "title": "MediaPipe ML app",
+            "description": "AI Dumbbell curls coach",
+            "image": "/images/dumbell_coach.gif",
+            "link": "/images/dumbell_coach.gif"
+        },
+        {
+            "title": "My lifeshop",
+            "description": "ExpressJS and ReactJS E-commerce Web App",
+            "image": "/images/lifeshop_-_Imgur.png",
+            "link": "/images/lifeshop_-_Imgur.png"
+        },
+        {
+            "title": "Neat - Social Media Web App",
+            "description": "MongoDB + ExpressJS + ReactJS + NodeJS + GraphQL",
+            "image": "/images/myMergn_-_Imgur.png",
+            "link": "/images/myMergn_-_Imgur.png"
+        },
+        {
+            "title": "Open AI Chatbot",
+            "description": "Online chatroom with OpenAI Robots",
+            "image": "/images/openAI_-_Imgur.png",
+            "link": "/images/openAI_-_Imgur.png"
+        },
+        {
+            "title": "Action Catcher",
+            "description": "Machine Learning model identifying human sport actions.",
+            "image": "/images/actCatcher.gif",
+            "link": "/images/actCatcher.gif"
+        },
+        {
+            "title": "Marvel Fall of Hall",
+            "description": "ReactJS + API",
+            "image": "/images/myMarvel_-Imgur.png",
+            "link": "/images/myMarvel_-Imgur.png"
+        }
+    ],
+    "projectList": [
+        {
+            "title": "myStack",
+            "subtitle": "",
+            "tech": "MERN stack",
+            "icon": "fa-gem solid",
+            "link": "https://github.com/Joe-Ngan/my-stack-app-client"
+        },
+        {
+            "title": "myEthereal",
+            "subtitle": "Blockchain Wallet Web app",
+            "tech": "Ethereum + MetaMask + Solidity",
+            "icon": "fa-save solid",
+            "link": "https://github.com/Joe-Ngan/my-ethereal"
+        },
+        {
+            "title": "Action Catcher",
+            "subtitle": "IOS App with Machine Learning model",
+            "tech": "Create ML",
+            "icon": "fa-chart-bar solid",
+            "link": "#"
+        },
+        {
+            "title": "AI dumbbell coach",
+            "subtitle": "MediaPipe Jupyter Notebook Python app",
+            "tech": "MediaPipe",
+            "icon": "fa-wifi solid",
+            "link": "https://github.com/Joe-Ngan/my-dumbbell-curls-coach"
+        },
+        {
+            "title": "myShyiop",
+            "subtitle": "E-commerce fashion web app",
+            "tech": "MERN stack + Stripe API",
+            "icon": "fa-cog solid",
+            "link": "https://github.com/Joe-Ngan/my-twitter-replica"
+        },
+        {
+            "title": "Twitter replica",
+            "subtitle": "Tailwind CSS Web app",
+            "tech": "Tailwind CSS Web app",
+            "icon": "fa-paper-plane solid",
+            "link": "https://github.com/Joe-Ngan/my-twitter-replica"
+        },
+        {
+            "title": "Reddit replica",
+            "subtitle": "ReactJS + Java Springboot",
+            "tech": "",
+            "icon": "fa-desktop solid",
+            "link": "#"
+        },
+        {
+            "title": "Cafe Recipes MS",
+            "subtitle": "Flask + ionic + Angular + Auth0",
+            "tech": "Flask + ionic + Angular + Auth0",
+            "icon": "fa-sync-alt solid",
+            "link": "https://github.com/Joe-Ngan/Udacity-FSND-Cafe-Drink-System"
+        },
+        {
+            "title": "lifeshop",
+            "subtitle": "E-commerce for life experience",
+            "tech": "ReactJS + Express",
+            "icon": "fa-hashtag solid",
+            "link": "https://github.com/Joe-Ngan/lifeshop"
+        },
+        {
+            "title": "Open AI Chatbot",
+            "subtitle": "",
+            "tech": "OpenAI Robots",
+            "icon": "fa-bolt solid",
+            "link": "https://github.com/Joe-Ngan/my-openAI"
+        },
+        {
+            "title": "Gobo Travel",
+            "subtitle": "Travel Agent Web app",
+            "tech": "ReactTS + Redux",
+            "icon": "fa-envelope solid",
+            "link": "https://github.com/Joe-Ngan/Gobo-travel"
+        },
+        {
+            "title": "Neat",
+            "subtitle": "Social Media Web App",
+            "tech": "ReactJS + Express + GraphQL",
+            "icon": "fa-leaf solid",
+            "link": "https://github.com/Joe-Ngan/my-merng-client"
+        }
+    ],
+    "footer": {
+        "socialLinks": [
+            {
+                "label": "Twitter",
+                "icon": "icon brands style2 fa-twitter",
+                "url": "#"
+            },
+            {
+                "label": "Facebook",
+                "icon": "icon brands style2 fa-facebook-f",
+                "url": "#"
+            },
+            {
+                "label": "Instagram",
+                "icon": "icon brands style2 fa-instagram",
+                "url": "#"
+            },
+            {
+                "label": "LinkedIn",
+                "icon": "icon brands style2 fa-linkedin-in",
+                "url": "#"
+            },
+            {
+                "label": "Email",
+                "icon": "icon style2 fa-envelope",
+                "url": "#"
+            }
+        ],
+        "copyright": "&copy; Untitled. Design: <a href=\"https://html5up.net\">HTML5 UP</a>."
+    }
+}

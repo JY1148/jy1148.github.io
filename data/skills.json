@@ -1,0 +1,26 @@
+{
+    "title": "Software Engineering Skillset",
+    "items": [
+        {
+            "label": "Programming Languages",
+            "value": "Kotlin, Java, Shell script, TypeScript, JavaScript, Python, C++, Swift"
+        },
+        {
+            "label": "Frameworks",
+            "value": "Spring Boot, React, Angular"
+        },
+        {
+            "label": "DevOps",
+            "value": "AWS, Docker, Kubernetes, ArgoCD, Rancher, Terraform"
+        },
+        {
+            "label": "Database",
+            "value": "MySQL, DynamoDB, MongoDB, DocumentDB, Cassandra, Redis, Firebase"
+        },
+        {
+            "label": "Operation Systems & Tools",
+            "value": "Kafka, SQS, RabbitMQ"
+        }
+    ],
+    "image": "/images/background/Untitled_Artwork_18.png"
+}
