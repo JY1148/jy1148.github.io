@@ -131,3 +131,58 @@
   a.icon, .icons a { @apply transition-transform duration-200; }
   a.icon:hover, .icons a:hover { @apply scale-110; }
 }
+
+/* Animated modal gradient background */
+@keyframes bg-pan {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
+.modal-gradient {
+  background-size: 200% 200%;
+  animation: bg-pan 12s linear infinite;
+}
+
+/* Modal enter/exit animations */
+@keyframes modal-fade-in {
+  0% { opacity: 0; transform: translateY(16px) scale(0.98); }
+  100% { opacity: 1; transform: translateY(0) scale(1); }
+}
+
+@keyframes modal-fade-out {
+  0% { opacity: 1; transform: translateY(0) scale(1); }
+  100% { opacity: 0; transform: translateY(12px) scale(0.98); }
+}
+
+.modal-enter {
+  animation: modal-fade-in 800ms cubic-bezier(.16,.84,.25,1) both;
+}
+
+.modal-exit {
+  animation: modal-fade-out 280ms ease both;
+}
+
+/* Modal content list tweaks */
+.modal-content ul { list-style: none; padding-left: 0; margin-left: 0; }
+.modal-content li { margin-left: 0; }
+
+/* Override vendor button max-width (main.css) to allow full-width buttons */
+input[type="submit"], input[type="reset"], input[type="button"], button, .button {
+  max-width: none !important;
+  width: auto !important;
+}
+
+/* Provide a utility class to force full-width buttons if desired */
+.btn-full {
+  width: 100% !important;
+  max-width: none !important;
+}
+
+/* Ensure btn-full shows full content (no truncation) */
+.btn-full {
+  white-space: normal !important;
+  overflow: visible !important;
+  text-overflow: clip !important;
+  display: block !important;
+}

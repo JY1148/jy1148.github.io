@@ -1,5 +1,5 @@
 // src/components/sections/Gallery.tsx
-import React, { useRef, useState, useEffect } from "react";
+import React, { useRef, useEffect } from "react";
 import { GalleryIntroItem, GalleryProject } from "../../data/portfolioData";
 import { imageUrl } from "../../utils/assets";
 

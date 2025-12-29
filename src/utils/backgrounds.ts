@@ -1,16 +1,15 @@
 // src/utils/backgrounds.ts
 // List of available background images in /public/images/background
 // Update this list if you add/remove files in that folder.
-// Serve images via jsDelivr CDN from the GitHub repo `jy1148/jy1148.github.io`.
-// URLs use the `main` branch and reference the files under `public/images/background`.
-const CDN_PREFIX = 'https://cdn.jsdelivr.net/gh/jy1148/jy1148.github.io@main/public/images/background/';
+// Return raw local paths for backgrounds (App will resolve via imageUrl()).
+// Keep filenames matching `public/images/background` after renaming spaces -> underscores.
 const BACKGROUNDS = [
-    `${CDN_PREFIX}Untitled_Artwork%2018.png`,
-    `${CDN_PREFIX}Untitled_Artwork%2019.png`,
-    `${CDN_PREFIX}Untitled_Artwork%2031.png`,
-    `${CDN_PREFIX}Untitled_Artwork%2034.png`,
-    `${CDN_PREFIX}Untitled_Artwork%2037.png`,
-    `${CDN_PREFIX}Untitled_Artwork%207.png`,
+    '/images/background/Untitled_Artwork_18.png',
+    '/images/background/Untitled_Artwork_19.png',
+    '/images/background/Untitled_Artwork_31.png',
+    '/images/background/Untitled_Artwork_34.png',
+    '/images/background/Untitled_Artwork_37.png',
+    '/images/background/Untitled_Artwork_7.png',
 ];
 
 export function pickUniqueBackgrounds(count: number): string[] {

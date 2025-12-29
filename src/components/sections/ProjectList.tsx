@@ -1,6 +1,6 @@
 // src/components/sections/ProjectList.tsx
 import React from "react";
-import { ProjectListItem, ComponentsHeaders } from "../../data/portfolioData";
+import { ProjectListItem } from "../../data/portfolioData";
 
 interface ProjectListProps {
   title: string;

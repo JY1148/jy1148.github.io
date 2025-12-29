@@ -2,7 +2,7 @@
     {
         "position": "Teaching Assistant",
         "course": "INFO6250 Web Design/User Experience Engineer",
-        "institution": "NEU",
+        "institution": "Northeastern University",
         "duration": "May 2022--Aug 2022",
         "details": [
             "Provided mentoring to students on implementation and troubleshooting by leveraging a strong comprehension of web development frameworks and server-side technologies"
@@ -11,7 +11,7 @@
     {
         "position": "Teaching Assistant",
         "course": "INFO6150 Web Development Tools & Methods",
-        "institution": "NEU",
+        "institution": "Northeastern University",
         "duration": "Sep 2022--Dec 2022",
         "details": [
             "Demonstrated knowledge of web technologies and frameworks, and advised on best practices for web design, including responsive layout creation and accessibility implementation"
@@ -20,10 +20,21 @@
     {
         "position": "Teaching Assistant",
         "course": "CSYE6225 Objects-Oriented Design with C++",
-        "institution": "NEU",
+        "institution": "Northeastern University",
         "duration": "Jan 2023--Apr 2023",
         "details": [
             "Exhibited proficiency in conveying intricate concepts related to C++ and OOP, such as encapsulation, inheritance, and polymorphism, to students with diverse levels of prior experience, resulting in effective communication"
+        ]
+    },
+    {
+        "position": "Event Planning Coordinator",
+        "course": "",
+        "institution": "Guangzhou No. 2 High School",
+        "duration": "Jan 2018 – Sep 2020",
+        "details": [
+            "Assisted in planning and executing large-scale academic and extracurricular events, including the National Olympiad in Informatics (NOI), annual drama festivals, and the Guangzhou No.2 High School Group Sports Festival",
+            "Coordinated logistics, scheduling, and on-site operations for events involving over 3,000 participants, ensuring smooth execution and positive attendee experience",
+            "Supported event promotion, participant registration, and on-site coordination, contributing to increased student engagement and participation rates"
         ]
     }
 ]
