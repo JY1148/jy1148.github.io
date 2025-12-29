@@ -8,6 +8,7 @@ import Gallery from "./components/sections/Gallery";
 import ProjectList from "./components/sections/ProjectList";
 import Footer from "./components/sections/Footer";
 import { pickUniqueBackgrounds } from "./utils/backgrounds";
+import { imageUrl } from "./utils/assets";
 
 function App() {
   const [data, setData] = React.useState<PortfolioData | null>(null);
@@ -57,7 +58,7 @@ function App() {
           contentAlign="content-align-left"
           imagePosition="image-position-center"
           title={data.skills.title}
-          image={data.skills.image || bgImages[0]}
+          image={imageUrl(data.skills.image) || bgImages[0]}
         >
           <div id="skills-list-container">
             <ul

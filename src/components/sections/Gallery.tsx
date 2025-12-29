@@ -1,6 +1,7 @@
 // src/components/sections/Gallery.tsx
 import React, { useRef, useState, useEffect } from "react";
 import { GalleryIntroItem, GalleryProject } from "../../data/portfolioData";
+import { imageUrl } from "../../utils/assets";
 
 interface GalleryProps {
   title: string;
@@ -97,7 +98,7 @@ const Gallery: React.FC<GalleryProps> = ({ title, introItems, projects }) => {
                 rel="noopener noreferrer"
               >
                 <img
-                  src={process.env.PUBLIC_URL + project.image}
+                  src={imageUrl(project.image)}
                   alt={project.title}
                   className="w-full h-full object-cover transition-transform duration-500 hover:scale-110"
                 />
