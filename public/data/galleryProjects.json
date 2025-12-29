@@ -2,62 +2,62 @@
     {
         "title": "myStack",
         "description": "Social Media Web App.",
-        "image": "/images/myStack - Imgur.jpg",
+        "image": "/images/myStack_-_Imgur.jpg",
         "link": "https://my-stack-app-client.vercel.app"
     },
     {
         "title": "myShyiop",
         "description": "E-commerce Clothing Web App.",
-        "image": "/images/shyiop - Imgur.png",
-        "link": "/images/shyiop - Imgur.png"
+        "image": "/images/shyiop_-_Imgur.png",
+        "link": "/images/shyiop_-_Imgur.png"
     },
     {
         "title": "Reddit Replica",
         "description": "Spring boot My-Reddit Replica Web App.",
-        "image": "/images/reddit replica.png",
-        "link": "/images/reddit replica.png"
+        "image": "/images/reddit_replica.png",
+        "link": "/images/reddit_replica.png"
     },
     {
         "title": "My-Ethereal",
         "description": "My-Ethereal blockchain wallet web app.",
-        "image": "/images/myEthereal - Imgur.png",
-        "link": "/images/myEthereal - Imgur.png"
+        "image": "/images/myEthereal_-_Imgur.png",
+        "link": "/images/myEthereal_-_Imgur.png"
     },
     {
         "title": "Cafe Management System",
         "description": "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices.",
-        "image": "/images/Cafe System - Imgur.png",
-        "link": "/images/Cafe System - Imgur.png"
+        "image": "/images/Cafe_System_-_Imgur.png",
+        "link": "/images/Cafe_System_-_Imgur.png"
     },
     {
         "title": "Gobo Travel",
         "description": "Online Travel Shopping Company Web App",
-        "image": "/images/goboTravel - Imgur.png",
-        "link": "/images/goboTravel - Imgur.png"
+        "image": "/images/goboTravel_-_Imgur.png",
+        "link": "/images/goboTravel_-_Imgur.png"
     },
     {
         "title": "MediaPipe ML app",
         "description": "AI Dumbbell curls coach",
-        "image": "/images/dumbell coach.gif",
-        "link": "/images/dumbell coach.gif"
+        "image": "/images/dumbell_coach.gif",
+        "link": "/images/dumbell_coach.gif"
     },
     {
         "title": "My lifeshop",
         "description": "ExpressJS and ReactJS E-commerce Web App",
-        "image": "/images/lifeshop - Imgur.png",
-        "link": "/images/lifeshop - Imgur.png"
+        "image": "/images/lifeshop_-_Imgur.png",
+        "link": "/images/lifeshop_-_Imgur.png"
     },
     {
         "title": "Neat - Social Media Web App",
         "description": "MongoDB + ExpressJS + ReactJS + NodeJS + GraphQL",
-        "image": "/images/myMergn - Imgur.png",
-        "link": "/images/myMergn - Imgur.png"
+        "image": "/images/myMergn_-_Imgur.png",
+        "link": "/images/myMergn_-_Imgur.png"
     },
     {
         "title": "Open AI Chatbot",
         "description": "Online chatroom with OpenAI Robots",
-        "image": "/images/openAI - Imgur.png",
-        "link": "/images/openAI - Imgur.png"
+        "image": "/images/openAI_-_Imgur.png",
+        "link": "/images/openAI_-_Imgur.png"
     },
     {
         "title": "Action Catcher",
@@ -68,7 +68,7 @@
     {
         "title": "Marvel Fall of Hall",
         "description": "ReactJS + API",
-        "image": "/images/myMarvel -Imgur.png",
-        "link": "/images/myMarvel -Imgur.png"
+        "image": "/images/myMarvel_-Imgur.png",
+        "link": "/images/myMarvel_-Imgur.png"
     }
 ]
